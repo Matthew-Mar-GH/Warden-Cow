@@ -1,0 +1,49 @@
+{
+	"format_version": 2,
+	"header": {
+		"name": "Warden Cow",
+		"description": "A simple behavior pack that turns cows hostile... but with a twist!",
+		"min_engine_version": [
+			1,
+			16,
+			0
+		],
+		"uuid": "6a684887-d14c-4493-a6ea-b33b8c071f54",
+		"version": [
+			1,
+			0,
+			0
+		]
+	},
+	"modules": [
+		{
+			"type": "data",
+			"uuid": "2460c739-4e70-496b-9f0c-a78cd2949a87",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"dependencies": [
+		{
+			"uuid": "600524a1-6639-4232-a45c-393202617e9d",
+			"version": [
+				1,
+				0,
+				0
+			]
+		}
+	],
+	"metadata": {
+		"generated_with": {
+			"bridge": [
+				"2.7.11"
+			],
+			"dash": [
+				"github:bridge-core/dash-compiler#8fa35c73292f6382747d0f411fca26431a6d2c8e"
+			]
+		}
+	}
+}
